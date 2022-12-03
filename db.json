@@ -4,31 +4,31 @@
         {   "id" : "1",
             "bankName" : "Nubank",
             "debt": 1200,
-            "accountValue": 200
+            "accountValue": 200,
             "data" : "23/11/2022",
             "idUser" : "92655670078"
         },
         {   "id" : "2",
             "bankName" : "Picpay",
             "debt": 500,
-            "accountValue": 1200
+            "accountValue": 1200,
             "data" : "23/11/2022",
             "idUser" : "92655670078"
         },
         {   "id" : "3",
             "bankName" : "Itau",
             "debt": 200,
-            "accountValue": 0
+            "accountValue": 0,
             "data" : "23/11/2022",
             "idUser" : "92655670078"
         },
         {   "id" : "4",
             "bankName" : "Inter",
             "debt": 5600,
-            "accountValue": 25
+            "accountValue": 25,
             "data" : "23/11/2022",
             "idUser" : "92655670078"
-        },
+        }
     ],
     "user" :
     [
