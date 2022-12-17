@@ -3,28 +3,136 @@
     [
         {   "id" : "1",
             "bankName" : "Nubank",
-            "debt": 1200,
+            "debt": [
+                {
+                    "id": "1",
+                    "description": "Pizza",
+                    "value": 120 
+                },
+                {
+                    "id": "2",
+                    "description": "cinema",
+                    "value": 80
+                },
+                {
+                    "id": "3","debt": 5600,
+                    "description":"monitor", 
+                    "value": 580
+                },
+                {
+                    "id": "4",
+                    "description": "tioZeDaEsquina",
+                    "value": 50
+                },
+                {
+                    "id": "5",
+                    "description": "Placa mãe",
+                    "value": 370
+                }
+            ],
+            "totalDebitAmount": 1200,
             "accountValue": 200,
             "data" : "23/11/2022",
             "idUser" : "92655670078"
         },
         {   "id" : "2",
             "bankName" : "Picpay",
-            "debt": 500,
+            "debt": [
+                {
+                    "id": "1",
+                    "description": "Pizza",
+                    "value": 120 
+                },
+                {
+                    "id": "2",
+                    "description": "cinema",
+                    "value": 80
+                },
+                {
+                    "id": "3",
+                    "description":"monitor", 
+                    "value": 580
+                },
+                {
+                    "id": "4",
+                    "description": "tioZeDaEsquina",
+                    "value": 50
+                },
+                {
+                    "id": "5",
+                    "description": "Placa mãe","debt": 5600,
+                    "value": 370
+                }
+            ],
+            "totalDebitAmount": 1200,
             "accountValue": 1200,
             "data" : "23/11/2022",
             "idUser" : "92655670078"
         },
         {   "id" : "3",
             "bankName" : "Itau",
-            "debt": 200,
+            "debt": [
+                {
+                    "id": "1",
+                    "description": "Pizza",
+                    "value": 120 
+                },
+                {
+                    "id": "2",
+                    "description": "cinema",
+                    "value": 80
+                },
+                {
+                    "id": "3",
+                    "description":"monitor", 
+                    "value": 580
+                },
+                {
+                    "id": "4",
+                    "description": "tioZeDaEsquina",
+                    "value": 50
+                },
+                {
+                    "id": "5",
+                    "description": "Placa mãe",
+                    "value": 370
+                }
+            ],
+            "totalDebitAmount": 1200,
             "accountValue": 0,
             "data" : "23/11/2022",
             "idUser" : "92655670078"
         },
         {   "id" : "4",
             "bankName" : "Inter",
-            "debt": 5600,
+            "debt": [
+                {
+                    "id": "1",
+                    "description": "Pizza",
+                    "value": 120 
+                },
+                {
+                    "id": "2",
+                    "description": "cinema",
+                    "value": 80
+                },
+                {
+                    "id": "3",
+                    "description":"monitor", 
+                    "value": 580
+                },
+                {
+                    "id": "4",
+                    "description": "tioZeDaEsquina",
+                    "value": 50
+                },
+                {
+                    "id": "5",
+                    "description": "Placa mãe",
+                    "value": 370
+                }
+            ],
+            "totalDebitAmount": 1200,
             "accountValue": 25,
             "data" : "23/11/2022",
             "idUser" : "92655670078"
